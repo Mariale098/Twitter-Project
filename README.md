@@ -1,4 +1,6 @@
-Se sugiere utilizar Ctrl + F para agilizar la búsqueda de cada paso, éstos se definen bajo la siguiente numeración: 
+[ENG] It is suggested to use Ctrl + F to speed up the search for each step, these are defined under the following numbering:
+
+[ESP] Se sugiere utilizar Ctrl + F para agilizar la búsqueda de cada paso, éstos se definen bajo la siguiente numeración: 
 
 📍 Paso 1: Extraer y Cargar la Data
 
