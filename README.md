@@ -1,27 +1,27 @@
-[ENG] It is suggested to use Ctrl + F to speed up the search for each step, these are defined under the following numbering:
+Se sugiere utilizar <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (Mac) para agilizar la búsqueda de cada paso.
 
-[ESP] Se sugiere utilizar Ctrl + F para agilizar la búsqueda de cada paso, éstos se definen bajo la siguiente numeración: 
+(It is suggested to use <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (Mac) to speed up the search for each step)
 
-📍 Paso 1: Extraer y Cargar la Data
+📍 Paso 1: Extraer y Cargar la Data (Extract and Load Data)
 
-📍 Paso 2: Limpiar la Data
+📍 Paso 2: Limpiar la Data (Clean the Data)
 
-📍 Paso 3: Lematización
+📍 Paso 3: Lematización (Lemmatization)
 
-📍 Paso 4: Tokenización del Texto
+📍 Paso 4: Tokenización del Texto (Tokenization)
 
-📍 Paso 5: Frecuencia
+📍 Paso 5: Frecuencia (Frequency)
 
-📍 Paso 6: Tags del Texto
+📍 Paso 6: Tags del Texto (Tags)
 
-📍 Paso 7: Nube de Palabras
+📍 Paso 7: Nube de Palabras (Word Cloud)
 
-📍 Paso 8: Cargar el archivo con las Emociones
+📍 Paso 8: Cargar el archivo con las Emociones (Loading the file with Emotions)
 
-📍 Paso 9: Convertir a Diccionario
+📍 Paso 9: Convertir a Diccionario (Convert to Dictionary)
 
-📍 Paso 10: Registrar las Emociones
+📍 Paso 10: Registrar las Emociones (Record the Emotions)
 
-📍 Paso 11: Calcular el Promedio
+📍 Paso 11: Calcular el Promedio (Calculate the Average)
 
-📍 Paso 12: Visualizar las Emociones
+📍 Paso 12: Visualizar las Emociones (Visualize Emotions)
